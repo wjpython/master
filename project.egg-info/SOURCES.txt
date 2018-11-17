@@ -1,0 +1,13 @@
+setup.py
+myscrapy/__init__.py
+myscrapy/items.py
+myscrapy/middlewares.py
+myscrapy/pipelines.py
+myscrapy/settings.py
+myscrapy/spiders/__init__.py
+myscrapy/spiders/qiancheng.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
